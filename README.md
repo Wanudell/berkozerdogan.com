@@ -1,8 +1,32 @@
-# berkozerdogan.com
-Creating a site with Vue.js
+# my-personel-site
 
-I'm using Vue.js, HTML, CSS, Bootstrap and more for it.
+This template should help get you started developing with Vue 3 in Vite.
 
-In this project, I will develop my site with my research. I will be using new technologies and applying them on my site to create a portfolio for myself.
+## Recommended IDE Setup
 
-I will add the backend side in the coming days. First of all, I will use the API, I am aiming to send ajax requests from the Frontend and show the data from my database for now.
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+TODO: SİTEYİ DÜZENLE VE GELİŞTİR
+TODO: YUKARIDAKİ İŞLEMLER BİTTİĞİNDE BACKEND TARAFINA GEÇİŞ YAP.
