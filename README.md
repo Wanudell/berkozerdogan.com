@@ -1,4 +1,4 @@
-# berkozerdogan.com-basic-site-
+# berkozerdogan.com
 Creating a site with Vue.js
 
 I'm using Vue.js, HTML, CSS, Bootstrap and more for it.
