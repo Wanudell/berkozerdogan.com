@@ -28,5 +28,3 @@ npm run dev
 npm run build
 ```
 
-TODO: SİTEYİ DÜZENLE VE GELİŞTİR
-TODO: YUKARIDAKİ İŞLEMLER BİTTİĞİNDE BACKEND TARAFINA GEÇİŞ YAP.
