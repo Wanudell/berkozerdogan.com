@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\druid\\OneDrive\\Desktop\\my-personel-site\\API\\myPersonelAPI\\myPersonelAPI\\myPersonelAPI.csproj",
+      "projectUniqueName": "C:\\Users\\druid\\OneDrive\\Desktop\\berkozerdogan.com\\berkozerdogan.com\\API\\myPersonelAPI\\myPersonelAPI\\myPersonelAPI.csproj",
       "projectName": "myPersonelAPI",
-      "projectPath": "C:\\Users\\druid\\OneDrive\\Desktop\\my-personel-site\\API\\myPersonelAPI\\myPersonelAPI\\myPersonelAPI.csproj",
+      "projectPath": "C:\\Users\\druid\\OneDrive\\Desktop\\berkozerdogan.com\\berkozerdogan.com\\API\\myPersonelAPI\\myPersonelAPI\\myPersonelAPI.csproj",
       "packagesPath": "C:\\Users\\druid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\druid\\OneDrive\\Desktop\\my-personel-site\\API\\myPersonelAPI\\myPersonelAPI\\obj\\",
+      "outputPath": "C:\\Users\\druid\\OneDrive\\Desktop\\berkozerdogan.com\\berkozerdogan.com\\API\\myPersonelAPI\\myPersonelAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

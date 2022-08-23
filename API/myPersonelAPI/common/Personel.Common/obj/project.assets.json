@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\druid\\OneDrive\\Desktop\\my-personel-site\\API\\myPersonelAPI\\common\\Personel.Common\\Personel.Common.csproj",
+      "projectUniqueName": "C:\\Users\\druid\\OneDrive\\Desktop\\berkozerdogan.com\\berkozerdogan.com\\API\\myPersonelAPI\\common\\Personel.Common\\Personel.Common.csproj",
       "projectName": "Personel.Common",
-      "projectPath": "C:\\Users\\druid\\OneDrive\\Desktop\\my-personel-site\\API\\myPersonelAPI\\common\\Personel.Common\\Personel.Common.csproj",
+      "projectPath": "C:\\Users\\druid\\OneDrive\\Desktop\\berkozerdogan.com\\berkozerdogan.com\\API\\myPersonelAPI\\common\\Personel.Common\\Personel.Common.csproj",
       "packagesPath": "C:\\Users\\druid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\druid\\OneDrive\\Desktop\\my-personel-site\\API\\myPersonelAPI\\common\\Personel.Common\\obj\\",
+      "outputPath": "C:\\Users\\druid\\OneDrive\\Desktop\\berkozerdogan.com\\berkozerdogan.com\\API\\myPersonelAPI\\common\\Personel.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

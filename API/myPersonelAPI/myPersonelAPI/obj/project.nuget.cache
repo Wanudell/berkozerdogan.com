@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Y70zzWUovINO+EYtFwPz/qpvpp8As8hlfeI45L9eCmfXVC9AVxY1MmUk4P7p70OVxRHdyWEM/ENTuoHMknpqw==",
+  "dgSpecHash": "VkVmG35zVjP7crmbdZ29YQwg11+WOhOGuRAyzMKHb63+vOAg1xEsHC0xzEgW2v0U2KI587JXSJ6vEfa3bAPkiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\druid\\OneDrive\\Desktop\\my-personel-site\\API\\myPersonelAPI\\myPersonelAPI\\myPersonelAPI.csproj",
+  "projectFilePath": "C:\\Users\\druid\\OneDrive\\Desktop\\berkozerdogan.com\\berkozerdogan.com\\API\\myPersonelAPI\\myPersonelAPI\\myPersonelAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\druid\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\druid\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
